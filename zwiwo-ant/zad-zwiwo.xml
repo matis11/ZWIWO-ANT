@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<metalink>
+    <files>
+        <hash type="MD5">
+            <value>14c1c1da9b9fc1aaca49672afbd01949</value>
+        </hash>
+        <name>/Users/matis11/Dev/put/TWO/ZWIWO/ant-task/build.xml</name>
+        <size>654</size>
+        <url>testowyurl/Users/matis11/Dev/put/TWO/ZWIWO/ant-task/build.xml</url>
+    </files>
+    <files>
+        <hash type="MD5">
+            <value>8e204a029a5c3b67b7e7ebe94398920c</value>
+        </hash>
+        <name>/Users/matis11/Dev/put/TWO/ZWIWO/ant-task/pom.xml</name>
+        <size>2888</size>
+        <url>testowyurl/Users/matis11/Dev/put/TWO/ZWIWO/ant-task/pom.xml</url>
+    </files>
+    <files>
+        <hash type="MD5">
+            <value>34060f6753c5b7c8f30d012ae8f6deef</value>
+        </hash>
+        <name>/Users/matis11/Dev/put/TWO/ZWIWO/ant-task/metalink.iml</name>
+        <size>2356</size>
+        <url>testowyurl/Users/matis11/Dev/put/TWO/ZWIWO/ant-task/metalink.iml</url>
+    </files>
+    <files>
+        <hash type="MD5">
+            <value>8ce44e9d7e51a30c8fa619eff958a02b</value>
+        </hash>
+        <name>/Users/matis11/Dev/put/TWO/ZWIWO/ant-task/.gitignore</name>
+        <size>2193</size>
+        <url>testowyurl/Users/matis11/Dev/put/TWO/ZWIWO/ant-task/.gitignore</url>
+    </files>
+    <files>
+        <hash type="MD5">
+            <value>01c2ba45b8ce4cb9d870b39204aae551</value>
+        </hash>
+        <name>/Users/matis11/Dev/put/TWO/ZWIWO/ant-task/.gitattributes</name>
+        <size>378</size>
+        <url>testowyurl/Users/matis11/Dev/put/TWO/ZWIWO/ant-task/.gitattributes</url>
+    </files>
+    <files>
+        <hash type="MD5">
+            <value>64999cfd1d686ce7e14b944e11f14e07</value>
+        </hash>
+        <name>/Users/matis11/Dev/put/TWO/ZWIWO/ant-task/zad-zwiwo.xml</name>
+        <size>2321</size>
+        <url>testowyurl/Users/matis11/Dev/put/TWO/ZWIWO/ant-task/zad-zwiwo.xml</url>
+    </files>
+    <files>
+        <hash type="MD5">
+            <value>7cf7c2e41f383b2675f7a2f3f82a76c7</value>
+        </hash>
+        <name>/Users/matis11/Dev/put/TWO/ZWIWO/ant-task/default.properties</name>
+        <size>27</size>
+        <url>testowyurl/Users/matis11/Dev/put/TWO/ZWIWO/ant-task/default.properties</url>
+    </files>
+    <published>2018-06-08T12:05:11.100+02:00</published>
+</metalink>
